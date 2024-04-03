@@ -1,2 +1,1 @@
-# KaneLi-Page
-Github Pages for CSE 110, a markdown web page describing me.
+My favorite programming language is python because the code feels so clean and concise.
